@@ -1,0 +1,11 @@
+<MassSpectrumLab>
+	<mark_id>0</mark_id>
+	<requirement_name>需求1</requirement_name>
+	<requirement_address>https://github.com/github-l-c/ReadXMLFileC.git</requirement_address>
+	<code_address>https://github.com/github-l-c/ReadXMLFileC</code_address>	
+	<development_branch>/master</development_branch>
+	<datum_tag>v1.20</datum_tag>
+	<local_address>c:/test/sds</local_address>
+    <compile_address>https://sdsd/sd/sd</compile_address>
+	<tester>张三</tester>
+</MassSpectrumLab>
